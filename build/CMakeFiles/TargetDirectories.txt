@@ -1,0 +1,7 @@
+C:/projects/cmake_exercise/build/CMakeFiles/liba.dir
+C:/projects/cmake_exercise/build/CMakeFiles/main_exer.dir
+C:/projects/cmake_exercise/build/CMakeFiles/main_qt.dir
+C:/projects/cmake_exercise/build/CMakeFiles/edit_cache.dir
+C:/projects/cmake_exercise/build/CMakeFiles/rebuild_cache.dir
+C:/projects/cmake_exercise/build/CMakeFiles/main_qt_autogen_timestamp_deps.dir
+C:/projects/cmake_exercise/build/CMakeFiles/main_qt_autogen.dir
